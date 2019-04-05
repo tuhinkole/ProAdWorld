@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proadworld</string>
+    <string name="admob_banner_id">ca-app-pub-9887106063007593/2831038434</string>
+    <string name="interstitial_full_screen">ca-app-pub-9887106063007593/5587217809</string>
+</resources>
